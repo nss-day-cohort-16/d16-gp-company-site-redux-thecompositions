@@ -1,0 +1,158 @@
+/***************************
+GENERAL STYLING
+****************************/
+
+
+
+body {
+	margin: 0;
+	font-size: 1em;
+	font-weight: normal;
+	font-family: sans-serif;
+	color: #808080;
+	background-color: white;
+}
+
+
+
+/***************************
+HEADER
+****************************/
+
+
+
+.logoImage img {
+	max-width: 100%;
+	max-height: auto;
+}
+
+.logoImage {
+/*	float: left;
+*/	display: inline-block;
+	height: 400px;
+	width: 400px;
+	margin-left: 35px;
+}
+
+
+
+/***************************
+NAVIGATION
+****************************/
+
+
+
+#nav_bar {
+	width: 100%;
+}
+
+
+
+
+#nav_bar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+#nav_bar li {
+	float: right;
+	width: 15%;
+}
+
+
+#nav_bar li a {
+	display: block;
+	color: #808080;
+	padding: 20px 20px;
+	text-transform: uppercase;;
+	text-decoration: none;	
+}
+
+
+/***************************
+MAIN
+****************************/
+
+
+
+
+/***************************
+FOOTER
+****************************/
+
+footer {
+	font-size: 1em;
+	text-align: center;
+	padding-top: 50px;
+	color: #808080;
+	padding: 20px 10px;
+	background-color: white;
+	clear: left;
+}
+
+
+
+/*.social-icons ul {
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+.socialImage {
+	max-width: 50%%;
+	height: auto;
+}
+
+
+.social-icons ul li {
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	margin-left: 20%;
+}
+*/
+p#copyright {
+	clear: both;
+}
+
+
+
+/*END OF HOME PAGE*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************
+AGENTS
+****************************/
+
+/***************************
+PARTNERS
+****************************/
+
+/***************************
+PROPERTIES
+
+****************************/
+
+
+/***************************
+HEADER
+****************************/
+
+
