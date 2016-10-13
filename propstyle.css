@@ -1,0 +1,43 @@
+.maindiv {
+	border: 2px solid gray;
+	border-radius: 50px;
+	/*border-top-left-radius: 50px;*/
+	/*border-top-right-radius: 50px;*/
+	box-shadow: 10px 10px 5px #888888;
+	display: inline-block;
+	width: 40%;
+	margin: 20px;
+	padding: 40px;
+	text-align: center;
+	background-color: #f0e68c;
+}
+
+#prop1{
+	margin-left: 38%;
+}
+#prop1 h1 {
+	font-size: 2.5em;
+}
+
+.divimg img {
+	width: 300px;
+	height: 150px;
+
+}
+
+.sub {
+	font-weight: 600;
+	font-size: 1.2em;
+	margin-top: 5px;
+}
+
+.divdescription{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-style: italic;
+
+}
+.divprice {
+	font-weight: 700;
+	padding-top: 5px;
+}
