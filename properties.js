@@ -75,3 +75,5 @@ for (var i = 0; i < propArr.length; i++){
 
 	maincontent[0].innerHTML = itemsOnPage;
 }
+
+
